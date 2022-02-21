@@ -1,0 +1,38 @@
+.alert{
+    background: #E11D48 !important;
+    color: #fff;
+}
+.hidden{
+    display: none;
+}
+.btn-theme{
+    background: #E11D48 !important;
+
+    border: none !important;
+
+    color: whitesmoke;
+    transform: rotate(20deg);
+}
+.bg-purple {
+    background-color: purple!important;
+    color: white;
+}
+
+.btn-purple{
+    color: #fff;
+    background-color: purple;
+    border-color: purple;
+}
+
+.bg-primary{
+    background: #E11D48 !important;
+    color: #fff;
+}
+
+.btn-primary{
+    background: #E11D48 !important;
+    color: #fff;
+    border: none !important;
+}
+
+
